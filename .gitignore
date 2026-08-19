@@ -1,0 +1,9 @@
+# binaries
+monitor-auto-switch
+*.exe
+
+# logs
+*.log
+
+# build output
+build/
